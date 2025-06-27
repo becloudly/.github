@@ -8,29 +8,27 @@
 
 </div>
 
-## About Us
+_We're passionate about creating solutions that empower servers and developers efficiently and securely. With Cloudly, we create modern technology to transform projects in a new way._
 
-We're passionate about creating solutions that empower servers and developers efficiently and securely. With Cloudly, we believe in modern technology to transform projects in a new way.
+---
+<div align="center">
 
-## What We Do
+### ☁️ CloudlyMC Plugin ☁️
 
-🚀 **Cloud Solutions** - Designing and implementing scalable cloud architectures  
-💡 **Innovation** - Developing cutting-edge tools and platforms  
-🛡️ **Security** - Ensuring robust and secure cloud environments  
-📈 **Optimization** - Helping businesses maximize their cloud potential  
+</div>
 
-## Our Focus Areas
-
-- Cloud Infrastructure & DevOps
-- Scalable Application Development
-- Security & Compliance
-- Performance Optimization
-- Modern Development Practices
-
-## Connect With Us
-
-We're always excited to collaborate and share knowledge with the community. Feel free to explore our repositories and reach out if you'd like to connect!
+_A high-performance Minecraft server plugin for paper-based servers built with Kotlin to manage your server with various integrations, highly configurable and performant._
+- 📋 Highly configurable through config, language files and more.
+- 🎮 Paper-based server (Version 1.18 or higher - PaperMC, Purpur, Pufferfish, Folia, CanvasMC etc.).
+- ☕ Java 17 or higher, fully written in async Kotlin.
+- 🛡️ Modern standards for security and stability.
 
 ---
 
-*Building the future, one cloud solution at a time.* ☁️
+<div align="center">
+
+### 📜 Connect With Us
+
+</div>
+
+We're always excited to collaborate and share knowledge with the community. Feel free to explore our repositories and reach out if you'd like to connect!
