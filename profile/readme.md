@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/becloudly/.github/blob/main/assets/Cloudly-Banner.png?raw=true" alt="Cloudly Logo" width="300"/>
+  <img src="https://github.com/becloudly/.github/blob/main/assets/Cloudly-Abstract_Scaled-Round.png?raw=true" alt="Cloudly Logo" width="200"/>
 </div>
 
 <div align="center">
