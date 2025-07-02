@@ -19,8 +19,8 @@ _We're passionate about creating solutions that empower servers and developers e
 
 _A high-performance Minecraft server plugin for paper-based servers built with Kotlin to manage your server with various integrations, highly configurable and performant._
 - 📋 Highly configurable through config, language files and more.
-- 🎮 Paper-based server (Version 1.18 or higher - PaperMC, Purpur, Pufferfish, Folia, CanvasMC etc.).
-- ☕ Java 17 or higher, fully written in async Kotlin.
+- 🎮 For Paper-based (Version 1.20 or higher - PaperMC, Purpur, Pufferfish, Folia, CanvasMC etc.) and Velocity servers.
+- ☕ Java 21 or higher, fully written in async Kotlin.
 - 🛡️ Modern standards for security and stability.
 
 ---
